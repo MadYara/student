@@ -1,3 +1,4 @@
+# Задача №1
 input_array = ARGV
 a = ARGV[0]
  if a == "Titanic"
